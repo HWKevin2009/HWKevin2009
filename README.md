@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HWKevin2009
 - 👀 I’m interested in Programming(of course)
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on C++ API or JAVA tips.
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on C# Windows Form or Unity 3D tips.
 -    I'm from South Korea.
 
 <!---
